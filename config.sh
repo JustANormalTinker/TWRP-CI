@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Device
-export TWRP_MANIFEST ="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp"
-export TWRP_BRANCH ="twrp-11"
-export DT_LINK="https://github.com/XenonTheInertG-CI/android_device_oneplus_OnePlus9Pro -b a11"
+export TWRP_MANIFEST ="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git"
+export TWRP_BRANCH ="twrp-9.0"
+export DT_LINK="https://github.com/agxpro/android_device_xiaomi_whyred -b android-9.0"
 
-export DEVICE="beryllium"
+export DEVICE="whyred"
 export OEM="xiaomi"
 export TARGET="recoveryimage"
 
