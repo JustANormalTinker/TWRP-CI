@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Device
-export TWRP_MANIFEST ="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git"
-export TWRP_BRANCH ="twrp-9.0"
+export TWRP_MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git"
+export TWRP_BRANCH="twrp-9.0"
 export DT_LINK="https://github.com/agxpro/android_device_xiaomi_whyred -b android-9.0"
 
 export DEVICE="whyred"
